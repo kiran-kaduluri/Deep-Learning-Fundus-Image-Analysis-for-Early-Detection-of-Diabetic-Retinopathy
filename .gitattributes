@@ -1,0 +1,11 @@
+# Enforce consistent line endings across platforms
+* text=auto eol=lf
+
+# Preserve binary files
+*.h5 binary
+*.ipynb binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
